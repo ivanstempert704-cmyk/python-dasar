@@ -1,0 +1,5 @@
+# This project currently uses Python 3 standard libraries (e.g., os, datetime) and custom local modules.
+# No external third-party packages are required to run the scripts.
+
+# If you install external libraries using pip in the future, update this file by running:
+# pip freeze > requirements.txt
